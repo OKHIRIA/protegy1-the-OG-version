@@ -1,0 +1,153 @@
+/*************************** ID STYLING *********************/
+#navigation-bar{
+    width: 100%;
+}
+#first{
+    background-color: #800020;
+}
+#profile-link{ 
+    margin-top: 6px;
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+#profile{
+    border-radius: 20%;
+    margin-bottom: 3px;
+}
+#explain{
+    /* margin-top: 70px;
+    margin-left: 20px; */
+    margin: 0;
+}
+#text{
+    margin-top: 150px;
+}
+#h2{
+    font-weight: bold;
+    font-size: 45px;
+    margin-bottom: 10px;
+    color: #D45060;
+}
+#navigation{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#img{
+    height: 500px;
+    padding-right: 0;
+}
+#myh4{
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+#second{
+    margin-top: 80px;
+    /* padding: 0 90px; */
+    margin-top: 40px;
+    padding: 0;
+    padding: 0;
+}
+#purchase-button{
+    margin-top: 20px;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    left: 400px;
+}
+#third{
+    margin-top: 60px;
+    padding: 50px;
+    background-color: #800020;
+}
+#myh2{
+    color:#D45060;
+    font-weight: bold;
+    margin-bottom: 20px;
+     font-family: 'Inter', sans-serif;
+}
+#text{
+    padding-right: 20px;
+}
+#dots{
+    font-size: 50px;
+    text-decoration: none;
+}
+#abt{
+    margin-top: 30px;
+    text-decoration: none;
+}
+#copy{
+    display: inline-block;
+}
+#footer{
+    padding: 10px 30px;
+}
+#eye{
+    font-size: 30px;
+}
+#forth{
+    width:1000px;
+    margin-right: 0;
+    padding-left: 20px;
+}
+/*******************************CLASS STYLING****************************/
+.pics{
+    width:80px;
+    height: 80px;
+    margin-bottom: 30px;
+}
+.merits{
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.myp{
+    font-size: 20px;
+    font-weight: bold;
+    color: #D45060;
+}
+.rt{
+    padding-top: 20px;
+}
+.link{
+    color: #D45060;
+    font-weight: bold;
+    font-size: 20px;
+}
+#views{
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 50px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+/***************************************GENERAL STYLING*********************/
+body{
+    margin: 0;
+    background-color: #F3E6D5;
+}
+h4{
+    font-weight: bold;
+    color: #D45060;
+}
+span{
+    font-weight: bold;
+    font-size: 30px;
+    color: gold;
+    padding-right: 5px;
+}
+/**************************************SUDO CLASS HOVER***************************/
+#dots:hover{
+    color: #800020;
+}
+#abt:hover{
+    color: #800020;
+}
+.merits:hover{background-color: #FFF9F2;
+}
